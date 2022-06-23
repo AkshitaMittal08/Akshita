@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshita
-- 👀 I’m interested in learning web development
+- 👀 I’m interested in learning Machine Learning and Data Science.
 - 🌱 I’m currently exploring everything
 - 📫 Reach me on my email
 
